@@ -23,7 +23,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.salla.sa/WqmoA/vkqsmuwPB0LDevtXXkFQljkFnz0yneT0ZnLQ71vM.gif" alt="figma" width="30" height="30"/> </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-amazon-gif-logo.gif" alt="aws" width="30" height="30"/> </a>&nbsp;
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="30" height="30"/> </a> &nbsp;
+  <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/5304_ps.gif" alt="photoshop" width="30" height="30"/> </a> &nbsp;
 </div>
 
 ###
