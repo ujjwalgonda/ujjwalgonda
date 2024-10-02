@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 
-###
+
 <div align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1614414800/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/xrshy30vzxw9ztkbd0qs.gif" alt="tailwind" width="30" height="30"/> </a>&nbsp;
@@ -24,7 +24,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-amazon-gif-logo.gif" alt="aws" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/5304_ps.gif" alt="photoshop" width="30" height="30"/> </a> &nbsp;
 <div/>
-###
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalgonda" height="30" width="40" /></a>
@@ -37,7 +38,6 @@
 
 ###
 
-<div>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -72,7 +72,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-</div>
 
 
 ###
