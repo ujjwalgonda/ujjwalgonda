@@ -10,8 +10,8 @@
   </div>
 
 ###
-
-  <a align="center" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
+<div align="center">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1614414800/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/xrshy30vzxw9ztkbd0qs.gif" alt="tailwind" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.twilio.com/content/dam/twilio-com/global/en/blog/legacy/2016/http-requests-in-python-3-html/header.gif" alt="python" width="30" height="30"/> </a>&nbsp; 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://nexenstial.in/assets/images/nodejs.gif" alt="nodejs" width="30" height="30"/> </a>&nbsp; 
@@ -23,7 +23,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-amazon-gif-logo.gif" alt="aws" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/5304_ps.gif" alt="photoshop" width="30" height="30"/> </a> &nbsp;
-
+<div/>
 ###
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -37,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
