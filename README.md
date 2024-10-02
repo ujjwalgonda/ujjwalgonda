@@ -27,6 +27,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-amazon-gif-logo.gif" alt="aws" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/5304_ps.gif" alt="photoshop" width="30" height="30"/> </a> &nbsp;
 <div/>
+  
+&nbsp;
 
 <div>
 <p align="center" class="text">Connect with me:
