@@ -8,7 +8,8 @@
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
-
+  
+&nbsp; 
 
 <div align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
