@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm R.S.Verma</h1>
 <h3 align="center">I am A Graphics Designer UI/UX Designer and Frontend Developer.</h3>
 
+- 🌱 I’m currently learning **Openshift**
+
+- 👯 I’m looking to collaborate on **Cloud Native Projects**
+
+- 👨‍💻 All of my projects are available at [rsverma.netlify.app](rsverma.netlify.app)
+
+- 📫 How to reach me **ujjwalfoundation73@gmail.com**
+
+- ⚡ Fun fact **I Create YouTube Videos.**
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalgonda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
@@ -86,16 +96,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalgonda&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgonda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalgonda" alt="ujjwalgonda" /></a> </p>
-
-- 🌱 I’m currently learning **Openshift**
-
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
-
-- 👨‍💻 All of my projects are available at [rsverma.netlify.app](rsverma.netlify.app)
-
-- 📫 How to reach me **ujjwalfoundation73@gmail.com**
-
-- ⚡ Fun fact **I Create YouTube Videos.**
 
 
 
