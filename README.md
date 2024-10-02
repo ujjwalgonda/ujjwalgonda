@@ -12,7 +12,9 @@
 &nbsp; 
 
 
-<div align="center" class="text">My Skills :
+ align="center" class="text">My Skills :
+  <div>
+  <p align="center" class="text">Connect with me :
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1614414800/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/xrshy30vzxw9ztkbd0qs.gif" alt="tailwind" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.twilio.com/content/dam/twilio-com/global/en/blog/legacy/2016/http-requests-in-python-3-html/header.gif" alt="python" width="30" height="30"/> </a>&nbsp; 
