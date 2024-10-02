@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R.S.Verma</h1>
 <h3 align="center">I am A Graphics Designer UI/UX Designer and Frontend Developer.</h3>
 
-<h2>My Skill</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjwalgonda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />  
@@ -13,7 +13,7 @@
 &nbsp; 
 
 
-
+<h2>My Skill</h2>
   <div align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1614414800/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/xrshy30vzxw9ztkbd0qs.gif" alt="tailwind" width="30" height="30"/> </a>&nbsp;
