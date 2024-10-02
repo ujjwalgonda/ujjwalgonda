@@ -12,7 +12,6 @@
   
 &nbsp; 
 
-
 <h2 align="center">My Skill</h2>
   <div align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
@@ -30,16 +29,6 @@
 <div/>
   
 &nbsp;
-
-<div>
-<p align="center" class="text">Connect with me :
-<a href="https://twitter.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalgonda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalgonda" height="30" width="40" /></a>
-<a href="https://fb.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujjwalgonda" height="30" width="40" /></a>
-<a href="https://instagram.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalgonda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjwalgonda" height="30" width="40" /></a>
-</p>
-<div/>
 
 
 ###
@@ -81,6 +70,16 @@
 
 
 ###
+
+<div>
+<p align="center" class="text">Connect with me :
+<a href="https://twitter.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalgonda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalgonda" height="30" width="40" /></a>
+<a href="https://fb.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujjwalgonda" height="30" width="40" /></a>
+<a href="https://instagram.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalgonda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjwalgonda" height="30" width="40" /></a>
+</p>
+<div/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UjjwalGonda&theme=vision-friendly-dark&hide_border=false)<br/>
 
