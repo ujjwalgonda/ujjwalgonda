@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=UjjwalGonda&icon=3&color=0)](https://visitcount.itsvg.in)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ujjwalgonda&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgonda" /> </p>
 <h1 align="center">Hi 👋, I'm R.S.Verma</h1>
 <h3 align="center">I am A Graphics Designer UI/UX Designer and Frontend Developer.</h3>
@@ -112,6 +113,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UjjwalGonda&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
