@@ -19,7 +19,7 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/2192-kotlin-intensifies.gif" alt="kotlin" width="30" height="30"/> </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/l26hxkgwri-YX4P7JNK1qsD4M57.gif" alt="javascript" width="30" height="30"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:960/1*sOWIyC1rjrWSUdIS1KvyHw.gif" alt="git" width="30" height="30"/> </a>  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> &nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*dFAUA_U6XtcCVDSDrd1eIQ.gif" alt="firebase" width="30" height="30"/> </a> &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-amazon-gif-logo.gif" alt="aws" width="30" height="30"/> </a>&nbsp;
