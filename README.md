@@ -16,7 +16,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/image/upload/v1614414800/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/xrshy30vzxw9ztkbd0qs.gif" alt="tailwind" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.twilio.com/content/dam/twilio-com/global/en/blog/legacy/2016/http-requests-in-python-3-html/header.gif" alt="python" width="30" height="30"/> </a>&nbsp; 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://nexenstial.in/assets/images/nodejs.gif" alt="nodejs" width="30" height="30"/> </a>&nbsp; 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> &nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/2192-kotlin-intensifies.gif" alt="kotlin" width="30" height="30"/> </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> &nbsp;
