@@ -18,7 +18,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://nexenstial.in/assets/images/nodejs.gif" alt="nodejs" width="30" height="30"/> </a>&nbsp; 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/2192-kotlin-intensifies.gif" alt="kotlin" width="30" height="30"/> </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/l26hxkgwri-YX4P7JNK1qsD4M57.gif" alt="javascript" width="30" height="30"/> </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/media/85ebd693f0843635b5810eaef81a7a95.gif" alt="git" width="30" height="30"/> </a>  &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
