@@ -10,6 +10,7 @@
   </div>
   
 &nbsp; 
+<h2>My Skill</h2>
 
 <div align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381754.gif" alt="illustrator" width="30" height="30"/> </a>&nbsp;
