@@ -15,7 +15,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/381669.png" alt="illustrator" width="30" height="30"/> </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://code.dlang.org/packages/tailwind-d/logo?s=650228a573eaa51f8ceded68" alt="tailwind" width="30" height="30"/> </a>&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="30" height="30"/> </a>&nbsp; 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/02/Why-Genstore-2.gif" alt="nodejs" width="30" height="30"/> </a>&nbsp; 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://nexenstial.in/assets/images/nodejs.gif" alt="nodejs" width="30" height="30"/> </a>&nbsp; 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  &nbsp;
