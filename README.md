@@ -28,7 +28,7 @@
   <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/5304_ps.gif" alt="photoshop" width="30" height="30"/> </a> &nbsp;
 <div/>
 
-
+<div>
 <p align="center" class="text">Connect with me:
 <a href="https://twitter.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalgonda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalgonda" height="30" width="40" /></a>
@@ -36,6 +36,7 @@
 <a href="https://instagram.com/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalgonda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ujjwalgonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjwalgonda" height="30" width="40" /></a>
 </p>
+<div/>
 
 
 ###
